@@ -1,4 +1,4 @@
-# sectionButtonsSmokeTests
+# sectionButtons-smokeTests
 
 Zadatak:
 Napisati dva smoke testa za https://www.telerik.com/support/demos:
